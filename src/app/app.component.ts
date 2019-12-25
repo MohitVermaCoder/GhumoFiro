@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   // styleUrls: ['./app.component.sass']
   selector: 'app-root',
   template: '<app-login></app-login>',
-  styleUrls: ['./app.component.sass']
+  styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
   title = 'GhumoFiro';
